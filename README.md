@@ -1,13 +1,22 @@
 # Wedding Planning Guide
 
-Landing page for the 15 Wedding Plans PDF guide.
+This repository contains the sell-ready landing page for the wedding planning product.
 
-## Publish with GitHub Pages
+## Public site
 
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save. GitHub Pages should publish the site at:
+The page is ready to be published via GitHub Pages from the `main` branch. Once Pages is enabled in the repository settings, the site will live at:
 
 https://bmchips20-jpg.github.io/wedding-planning-guide/
 
-## Important before selling
+## Included files
 
-The repository contains only the landing page, not the advertised PDF. It is not ready to sell until the actual guide is created, checked, and delivered to buyers. Orders are currently manual: confirm each M-Pesa payment and send the PDF through WhatsApp. No payment processing or automatic delivery is configured.
+- `index.html` — the product sales page
+- `15-wedding-plans-guide.pdf` — downloadable PDF file for buyer delivery
+
+## Payment flow
+
+- Buyer pays by M-Pesa to `0706 919 675`
+- Buyer sends the confirmation message to WhatsApp
+- You send the PDF after confirmation
+
+This is a manual, low-friction sales setup designed to get you selling quickly.
